@@ -16,8 +16,6 @@ I am interested in understanding how **large language models can reason, plan, u
 
 ## 📚 Research Projects:
 
-## 📚 Research Projects
-
 - [**GNN4TaskPlan — Implementation Study & Independent Evaluation**](https://github.com/Swetabhh/GNN4TaskPlan-Implementation-Study)  
   Studied graph-based task planning for LLM agents, focusing on task dependencies, graph-constrained subtask retrieval and training-free versus training-based planning workflows. Developed an independent Python evaluator for prediction and step coverage, Node-F1, Link-F1, plan accuracy and hallucination analysis with automated identification of challenging evaluation cases.
 
