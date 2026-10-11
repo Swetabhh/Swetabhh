@@ -42,6 +42,7 @@ I am strengthening my foundations in **LLM reasoning, planning, and multi-agent 
 
 - **GitHub:** [@Swetabhh](https://github.com/Swetabhh)
 - **Email:** swetabhsinha05@gmail.com
+- **Phone Number:** +91 6289405468
 
 ---
 
