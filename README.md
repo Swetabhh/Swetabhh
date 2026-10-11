@@ -29,7 +29,7 @@ I am interested in understanding how **large language models can reason, plan, u
 
 ## 🛠️ Technical Skills:
 
-- **Languages:** Python, C, C++
+- **Languages:** Python, C, C++, Java
 - **ML Frameworks:** PyTorch, PyTorch Geometric, Transformers
 - **Data & Analysis:** NumPy, pandas, JSON, JSONL
 - **Tools:** Git, GitHub, LaTeX
