@@ -34,7 +34,7 @@ I am interested in understanding how **large language models can reason, plan, u
 
 ## 🎯 Current Focus:
 
-I am strengthening my foundations in **LLM reasoning, planning, and multi-agent systems** while improving my skills in research-code analysis, independent evaluation and reproducible experimentation.
+I am strengthening my foundations in **LLM reasoning, planning and multi-agent systems** while improving my skills in research-code analysis, independent evaluation and reproducible experimentation.
 
 ## 🤝 Connect:
 
