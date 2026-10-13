@@ -16,13 +16,13 @@ I am interested in understanding how **large language models can reason, plan, u
 
 ## 📚 Research Projects:
 
-- [**GNN4TaskPlan — Implementation Study & Independent Evaluation**](https://github.com/Swetabhh/GNN4TaskPlan-Implementation-Study)  
+- [**GNN4TaskPlan: Implementation Study & Independent Evaluation**](https://github.com/Swetabhh/GNN4TaskPlan-Implementation-Study)  
   Studied graph-based task planning for LLM agents, focusing on task dependencies, graph-constrained subtask retrieval and training-free versus training-based planning workflows. Developed an independent Python evaluator for prediction and step coverage, Node-F1, Link-F1, plan accuracy and hallucination analysis with automated identification of challenging evaluation cases.
 
-- [**CoMLRL — Decentralized LLM Collaboration Study**](https://github.com/Swetabhh/CoMLRL-Decentralized-LLM-Collaboration-Study)  
+- [**CoMLRL: Decentralized LLM Collaboration Study**](https://github.com/Swetabhh/CoMLRL-Decentralized-LLM-Collaboration-Study)  
   Analyzed multi-agent reinforcement-learning workflows for collaborative LLM systems, tracing Independent Actor-Critic (IAC) and Multi-Agent Actor-Critic (MAAC) approaches from agent rollouts and reward processing to value estimation, return targets, and advantage computation. Examined independent versus centralized critic architectures and documented implementation edge cases involving multi-turn transitions, configuration constraints and numerical stability.
 
-- [**ReConcile — Implementation Analysis of Collaborative LLM Reasoning**](https://github.com/Swetabhh/ReConcile-Implementation-Analysis)  
+- [**ReConcile: Implementation Analysis of Collaborative LLM Reasoning**](https://github.com/Swetabhh/ReConcile-Implementation-Analysis)  
   Traced a multi-LLM reasoning pipeline covering individual model generation, structured answer parsing, confidence-weighted consensus and disagreement-triggered discussion rounds. Investigated how voting and iterative debate are organized in the implementation and documented source-level issues involving syntax, legacy API dependencies and credential requirements.
 
 ## 🛠️ Technical Skills:
