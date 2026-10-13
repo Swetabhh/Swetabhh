@@ -4,13 +4,13 @@
 
 **B.Tech CSE (AI/ML) Student | Aspiring AI Researcher**
 
-I am interested in understanding how **large language models can reason, plan, use tools, and collaborate** through autonomous and multi-agent systems. My current focus is on studying research implementations, tracing algorithmic workflows and developing independent evaluation tools.
+I am interested in understanding how **large language models can reason, plan, use tools and collaborate** through autonomous and multi-agent systems. My current focus is on studying research implementations, tracing algorithmic workflows and developing independent evaluation tools.
 
 ## 🔬 Research Interests:
 
-- **LLM-based Agents:** Tool use, autonomous decision-making, and agent memory.
-- **Reasoning & Planning:** Multi-step reasoning, search, task decomposition, and replanning.
-- **Multi-Agent Systems:** Coordination, communication, collaboration, and decentralized decision-making.
+- **LLM-based Agents:** Tool use, autonomous decision-making and agent memory.
+- **Reasoning & Planning:** Multi-step reasoning, search, task decomposition and replanning.
+- **Multi-Agent Systems:** Coordination, communication, collaboration and decentralized decision-making.
 - **Reinforcement Learning:** Learning strategies for improving agent behavior and decision-making.
 - **Efficient Agentic Systems:** Exploring adaptive reasoning and inference-time computation.
 
