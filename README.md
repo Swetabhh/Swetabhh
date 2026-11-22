@@ -30,7 +30,7 @@ An implementation study exploring graph-based task planning for LLM agents, focu
 - Explored prediction coverage, step coverage, Node-F1, Link-F1, and plan accuracy.
 - Investigated node and link hallucinations and automated identification of challenging evaluation cases.
 
-### 2. CoMLRL: Decentralized LLM Collaboration
+### 2. CoMLRL: Actor-Critic Learning for Decentralized LLM Collaboration
 
 [Implementation Study](https://github.com/Swetabhh/CoMLRL-Decentralized-LLM-Collaboration-Study)
 
@@ -41,7 +41,7 @@ An implementation analysis of multi-agent reinforcement learning workflows for c
 - Examined independent and centralized critic architectures.
 - Investigated multi-turn transition handling, configuration constraints, and numerical stability.
 
-### 3. ReConcile: Collaborative LLM Reasoning
+### 3. ReConcile: Consensus-Based Reasoning Across Diverse LLMs
 
 [Implementation Analysis](https://github.com/Swetabhh/ReConcile-Implementation-Analysis)
 
