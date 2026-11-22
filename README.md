@@ -2,20 +2,19 @@
 
 **B.Tech CSE (AI/ML) Student | Aspiring AI Researcher**
 
-I am interested in understanding how large language models can reason more effectively, allocate computational resources intelligently, and solve complex problems through structured reasoning and planning.
+I am interested in **Agentic AI and Autonomous LLM Systems**, particularly how language models can reason, plan, make decisions, and execute complex tasks autonomously.
 
-My current research focus is **Adaptive Reasoning and Inference-Time Computation in LLMs**, particularly investigating how models can dynamically determine the depth and computational effort required for different reasoning tasks.
+My research interests focus on developing a deeper understanding of the mechanisms that enable LLM-based agents to solve multi-step problems, interact with external tools, adapt to feedback, and operate reliably under computational constraints.
 
-I enjoy studying research papers, tracing algorithmic implementations, analyzing existing methods, and developing independent evaluation tools to investigate research problems.
+I enjoy exploring research papers, analyzing algorithmic workflows, studying research implementations, and developing independent tools for evaluation and experimentation.
 
 ## 🔬 Research Interests
 
-- **LLM Reasoning:** Chain-of-thought reasoning, structured reasoning, search-based reasoning, and mathematical and logical problem-solving.
-- **Adaptive Inference-Time Computation:** Dynamic reasoning depth, compute-budget allocation, adaptive test-time computation, and inference-time scaling.
-- **Reasoning Efficiency:** Balancing computational cost, reasoning quality, accuracy, and reliability.
-- **Search & Planning:** Tree-based search, task decomposition, sequential decision-making, and feedback-driven replanning.
-- **Autonomous LLM Agents:** Tool use, memory, feedback integration, and reliable execution of multi-step tasks.
-- **Evaluation & Reliability:** Reasoning evaluation, failure analysis, efficiency metrics, and reproducible experimentation.
+- **Agentic AI & Autonomous LLM Agents:** Goal-directed behavior, autonomous decision-making, tool use, agent memory, and multi-step task execution.
+- **Reasoning & Planning:** Structured problem-solving, task decomposition, search-based planning, hierarchical planning, and dynamic replanning.
+- **Adaptive Inference & Computational Efficiency:** Inference-time scaling, adaptive test-time computation, dynamic compute allocation, and efficient reasoning strategies.
+- **Learning & Decision-Making:** Feedback-driven adaptation, reinforcement learning approaches, and strategies for improving agent behavior.
+- **Agent Reliability & Evaluation:** Execution accuracy, failure analysis, uncertainty, self-correction, and evaluation of long-horizon agent tasks.
 
 ## 📚 Research-Code Studies
 
@@ -56,33 +55,29 @@ An implementation analysis of collaborative reasoning pipelines involving multip
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
-- Python, C, C++, Java
+**Programming Languages:** Python, C, C++, Java
 
-**ML & Deep Learning Frameworks**
-- PyTorch, PyTorch Geometric, Hugging Face Transformers
+**Machine Learning & Deep Learning:** PyTorch, PyTorch Geometric, Hugging Face Transformers
 
-**Data Processing & Analysis**
-- NumPy, pandas, JSON, JSONL
+**Data Processing & Analysis:** NumPy, pandas, JSON, JSONL
 
-**Research & Development Tools**
-- Git, GitHub, LaTeX
+**Research & Development:** Git, GitHub, LaTeX
 
 ## 🎯 Current Research Focus
 
-**Adaptive Reasoning with Dynamic Compute in LLMs**
+**Reasoning, Planning and Adaptive Computation in Agentic AI**
 
-I am currently exploring how large language models can dynamically allocate computational resources during inference rather than relying on a fixed reasoning strategy for every problem.
+I am currently exploring how autonomous LLM agents can become more capable, efficient, and reliable when solving complex tasks.
 
-Some questions I am particularly interested in:
+Some of the research questions that interest me include:
 
-- How can a model estimate the complexity of a problem before deciding how much reasoning it needs?
-- Can reasoning depth and computational budgets be adapted dynamically based on intermediate results?
-- How can search and verification improve reasoning reliability without unnecessary computation?
-- What strategies can balance accuracy, inference cost, and computational efficiency?
-- How can adaptive reasoning mechanisms be evaluated across problems of varying complexity?
+- How can LLM agents effectively decompose and plan complex tasks?
+- How can agents adapt their reasoning and computational effort to the difficulty of a task?
+- How can search, feedback, and verification improve planning and decision-making?
+- How can agents recover from execution failures and dynamically revise their plans?
+- How can autonomous agent systems balance performance, reliability, and computational cost?
 
-My broader goal is to investigate computationally feasible research problems through rigorous experimentation, independent evaluation, and reproducible implementations.
+My goal is to investigate technically meaningful and computationally feasible research problems through rigorous experimentation, independent evaluation, and reproducible implementations.
 
 ## 🤝 Connect
 
@@ -91,4 +86,4 @@ My broader goal is to investigate computationally feasible research problems thr
 
 ---
 
-*Interested in LLM reasoning, adaptive inference-time computation, and efficient problem-solving. Open to meaningful research discussions and collaborations.*
+*Interested in Agentic AI, autonomous LLM systems, reasoning, planning, and efficient AI systems. Open to meaningful research discussions and collaborations.*
