@@ -57,20 +57,17 @@ An implementation analysis of collaborative reasoning pipelines involving multip
 ## 🛠️ Technical Skills
 
 **Programming Languages**
+- Python, C, C++, Java
 
-Python · C · C++ · Java
+**Deep Learning & ML Frameworks**
+- PyTorch, PyTorch Geometric, Hugging Face Transformers
 
-**Machine Learning & Deep Learning**
-
-PyTorch · PyTorch Geometric · Hugging Face Transformers
-
-**Data Processing & Analysis**
-
-NumPy · pandas · JSON · JSONL
+**Data Processing & Numerical Computing**
+- NumPy, pandas
+- JSON, JSONL
 
 **Research & Development Tools**
-
-Git · GitHub · LaTeX
+- Git, GitHub, LaTeX
 
 ## 🎯 Current Research Focus
 
