@@ -19,7 +19,7 @@ I enjoy studying research papers, tracing algorithmic workflows, analyzing resea
 
 ## 📚 Research-Code Studies
 
-### 1. GNN4TaskPlan — Graph-Based Task Planning for LLM Agents
+### 1. GNN4TaskPlan: Graph-Based Task Planning for LLM Agents
 
 [Implementation Study & Independent Evaluation](https://github.com/Swetabhh/GNN4TaskPlan-Implementation-Study)
 
@@ -30,7 +30,7 @@ An implementation study exploring graph-based task planning for LLM agents, focu
 - Explored prediction coverage, step coverage, Node-F1, Link-F1, and plan accuracy.
 - Investigated node and link hallucinations and automated identification of challenging evaluation cases.
 
-### 2. CoMLRL — Decentralized LLM Collaboration
+### 2. CoMLRL: Decentralized LLM Collaboration
 
 [Implementation Study](https://github.com/Swetabhh/CoMLRL-Decentralized-LLM-Collaboration-Study)
 
@@ -41,7 +41,7 @@ An implementation analysis of multi-agent reinforcement learning workflows for c
 - Examined independent and centralized critic architectures.
 - Investigated multi-turn transition handling, configuration constraints, and numerical stability.
 
-### 3. ReConcile — Collaborative LLM Reasoning
+### 3. ReConcile: Collaborative LLM Reasoning
 
 [Implementation Analysis](https://github.com/Swetabhh/ReConcile-Implementation-Analysis)
 
