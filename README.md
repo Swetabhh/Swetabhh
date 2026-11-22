@@ -2,82 +2,91 @@
 
 **B.Tech CSE (AI/ML) Student | Aspiring AI Researcher**
 
-I am interested in **Agentic AI and Autonomous LLM Systems**, particularly how language models can reason, plan, make decisions, and execute complex tasks autonomously.
+I am interested in **Agentic AI and Autonomous LLM Systems**, with a particular focus on how language models can reason, plan, make decisions, and execute complex tasks autonomously.
 
-My research interests focus on developing a deeper understanding of the mechanisms that enable LLM-based agents to solve multi-step problems, interact with external tools, adapt to feedback, and operate reliably under computational constraints.
+My broader research interests lie in understanding the mechanisms that enable intelligent agents to solve multi-step problems, interact with external environments, use tools, adapt to feedback, and operate efficiently and reliably.
 
-I enjoy exploring research papers, analyzing algorithmic workflows, studying research implementations, and developing independent tools for evaluation and experimentation.
+I enjoy studying research papers, tracing algorithmic workflows, analyzing research implementations, and developing independent evaluation tools to investigate interesting research problems.
 
 ## 🔬 Research Interests
 
-- **Agentic AI & Autonomous LLM Agents:** Goal-directed behavior, autonomous decision-making, tool use, agent memory, and multi-step task execution.
-- **Reasoning & Planning:** Structured problem-solving, task decomposition, search-based planning, hierarchical planning, and dynamic replanning.
-- **Adaptive Inference & Computational Efficiency:** Inference-time scaling, adaptive test-time computation, dynamic compute allocation, and efficient reasoning strategies.
-- **Learning & Decision-Making:** Feedback-driven adaptation, reinforcement learning approaches, and strategies for improving agent behavior.
-- **Agent Reliability & Evaluation:** Execution accuracy, failure analysis, uncertainty, self-correction, and evaluation of long-horizon agent tasks.
+- **Agentic AI & Autonomous LLM Systems:** Agent architectures, autonomous decision-making, tool use, memory, and multi-step task execution.
+- **LLM Reasoning & Problem-Solving:** Structured reasoning, search-based approaches, complex problem-solving, and reasoning verification.
+- **Planning & Decision-Making:** Task decomposition, hierarchical planning, sequential decision-making, and dynamic replanning.
+- **Adaptive & Efficient Inference:** Inference-time scaling, adaptive test-time computation, dynamic compute allocation, and computational efficiency.
+- **Learning & Adaptation:** Feedback-driven improvement, reinforcement learning, and adaptive agent behavior.
+- **Reliability & Evaluation:** Agent execution accuracy, failure analysis, uncertainty, self-correction, and long-horizon task evaluation.
 
 ## 📚 Research-Code Studies
 
-### 1. GNN4TaskPlan | Graph-Based Task Planning for LLM Agents
+### 1. GNN4TaskPlan — Graph-Based Task Planning for LLM Agents
 
-[Repository](https://github.com/Swetabhh/GNN4TaskPlan-Implementation-Study)
+[Implementation Study & Independent Evaluation](https://github.com/Swetabhh/GNN4TaskPlan-Implementation-Study)
 
-An implementation study of graph-based task planning for LLM agents, focusing on task dependencies, graph-constrained subtask retrieval, and training-free versus training-based planning workflows.
+An implementation study exploring graph-based task planning for LLM agents, focusing on task dependencies, graph-constrained subtask retrieval, and different planning workflows.
 
 - Studied graph-based task representations and subtask retrieval mechanisms.
 - Developed an independent Python evaluation pipeline.
 - Explored prediction coverage, step coverage, Node-F1, Link-F1, and plan accuracy.
 - Investigated node and link hallucinations and automated identification of challenging evaluation cases.
 
-### 2. CoMLRL | Decentralized LLM Collaboration
+### 2. CoMLRL — Decentralized LLM Collaboration
 
-[Repository](https://github.com/Swetabhh/CoMLRL-Decentralized-LLM-Collaboration-Study)
+[Implementation Study](https://github.com/Swetabhh/CoMLRL-Decentralized-LLM-Collaboration-Study)
 
 An implementation analysis of multi-agent reinforcement learning workflows for collaborative LLM systems.
 
-- Traced Independent Actor-Critic (IAC) and Multi-Agent Actor-Critic (MAAC) workflows.
+- Traced Independent Actor-Critic (IAC) and Multi-Agent Actor-Critic (MAAC) approaches.
 - Studied agent rollouts, reward processing, value estimation, return targets, and advantage computation.
 - Examined independent and centralized critic architectures.
-- Investigated multi-turn transitions, configuration constraints, and numerical stability.
+- Investigated multi-turn transition handling, configuration constraints, and numerical stability.
 
-### 3. ReConcile | Collaborative LLM Reasoning
+### 3. ReConcile — Collaborative LLM Reasoning
 
-[Repository](https://github.com/Swetabhh/ReConcile-Implementation-Analysis)
+[Implementation Analysis](https://github.com/Swetabhh/ReConcile-Implementation-Analysis)
 
 An implementation analysis of collaborative reasoning pipelines involving multiple language models.
 
 - Traced individual model generation and structured answer parsing.
 - Studied confidence-weighted consensus and voting mechanisms.
 - Analyzed disagreement-triggered discussion and iterative debate rounds.
-- Documented implementation issues, legacy API dependencies, and credential requirements.
+- Documented source-level implementation issues, legacy API dependencies, and credential requirements.
 
 *These repositories document independent implementation studies and source-code analysis of existing research. They do not claim authorship of the original papers or independent reproduction of their reported results.*
 
 ## 🛠️ Technical Skills
 
-**Programming Languages:** Python, C, C++, Java
+**Programming Languages**
 
-**Machine Learning & Deep Learning:** PyTorch, PyTorch Geometric, Hugging Face Transformers
+Python · C · C++ · Java
 
-**Data Processing & Analysis:** NumPy, pandas, JSON, JSONL
+**Machine Learning & Deep Learning**
 
-**Research & Development:** Git, GitHub, LaTeX
+PyTorch · PyTorch Geometric · Hugging Face Transformers
+
+**Data Processing & Analysis**
+
+NumPy · pandas · JSON · JSONL
+
+**Research & Development Tools**
+
+Git · GitHub · LaTeX
 
 ## 🎯 Current Research Focus
 
-**Reasoning, Planning and Adaptive Computation in Agentic AI**
+**Reasoning and Planning in Autonomous LLM Agents**
 
-I am currently exploring how autonomous LLM agents can become more capable, efficient, and reliable when solving complex tasks.
+I am particularly interested in exploring how autonomous LLM agents can become more capable, adaptive, and reliable when solving complex tasks.
 
-Some of the research questions that interest me include:
+Some questions that motivate my exploration:
 
-- How can LLM agents effectively decompose and plan complex tasks?
-- How can agents adapt their reasoning and computational effort to the difficulty of a task?
-- How can search, feedback, and verification improve planning and decision-making?
-- How can agents recover from execution failures and dynamically revise their plans?
-- How can autonomous agent systems balance performance, reliability, and computational cost?
+- How can agents understand complex objectives and decompose them into executable plans?
+- How can agents decide which actions, tools, or reasoning strategies are appropriate for a given task?
+- How can planning systems adapt when intermediate actions fail or new information becomes available?
+- How can computational resources be allocated more intelligently during complex problem-solving?
+- How can we evaluate the reliability and effectiveness of autonomous agents over long-horizon tasks?
 
-My goal is to investigate technically meaningful and computationally feasible research problems through rigorous experimentation, independent evaluation, and reproducible implementations.
+My goal is to develop a strong research foundation and investigate technically meaningful problems through rigorous experimentation, independent evaluation, and reproducible implementations.
 
 ## 🤝 Connect
 
@@ -86,4 +95,4 @@ My goal is to investigate technically meaningful and computationally feasible re
 
 ---
 
-*Interested in Agentic AI, autonomous LLM systems, reasoning, planning, and efficient AI systems. Open to meaningful research discussions and collaborations.*
+*Interested in Agentic AI, autonomous LLM systems, reasoning, planning, and intelligent decision-making. Open to meaningful research discussions and collaborations.*
